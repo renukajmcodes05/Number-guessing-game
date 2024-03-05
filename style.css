@@ -1,0 +1,58 @@
+body{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color: #000;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2.5em;
+    margin-left: 2.5em;
+    font-size: 50px;
+    position: relative;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #c8e5e8;
+    -webkit-text-stroke: 3px rgb(31, 126, 133);
+}
+
+h3{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2.1em;
+    margin-left: 2.5em;
+    color: #c8e5e8;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke: 1px rgb(25, 102, 107);
+}
+
+#ip{
+    margin-top: 2.1em;
+    margin-left: 2.4em;
+    background-color: rgb(238, 244, 248);
+    width: 200px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #121111;
+    
+}
+
+.but{
+    margin-top: em;
+    margin-left: 3.4em;
+    color: #07090a;
+    background-color: rgb(29, 106, 164);
+    font-weight: bold;
+    padding: 6px;
+}
+
+#lb{
+    margin-left: 2em;
+    color: #f9f7f7;
+    font-size: 25px;
+}
